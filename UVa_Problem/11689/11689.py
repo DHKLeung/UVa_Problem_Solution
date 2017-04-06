@@ -1,6 +1,6 @@
 """
 Coded by Daniel H. Leung
-Date : 2016-07-27 (YYYYMMDD)
+Date : 2017-04-06 (YYYYMMDD)
 """
 def processing(amount, crit):
     times, left = 0, 0
