@@ -1,3 +1,7 @@
+"""
+Coded by Daniel H. Leung
+Date : 2016-07-27 (YYYYMMDD)
+"""
 def processing(amount, crit):
     times, left = 0, 0
     while amount >= crit:
